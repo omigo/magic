@@ -1,4 +1,11 @@
-// Golang 实现抽象类
+// Golang 实现抽象类 https://go.dev/play/p/aE8E1JSfrxN
+package main
+
+import (
+	"fmt"
+	"testing"
+)
+
 type ILog interface {
 	Debuger
 	Errorer
