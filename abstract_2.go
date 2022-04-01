@@ -1,5 +1,5 @@
 // Golang 实现抽象类 https://go.dev/play/p/aE8E1JSfrxN
-package main
+package magic
 
 import (
 	"fmt"
